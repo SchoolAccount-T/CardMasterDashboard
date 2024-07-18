@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+    https://www.loom.com/share/d23b0d5d71c64b83b20db321461a58c6?sid=1c64943f-0e9d-4258-b115-9e49b3e046c3
+
+<img src='(https://www.loom.com/share/d23b0d5d71c64b83b20db321461a58c6?sid=1c64943f-0e9d-4258-b115-9e49b3e046c3)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,6 +37,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+    
     I encountered syntax errors and misplaced methods, functions, and calls.
 
 Keys:

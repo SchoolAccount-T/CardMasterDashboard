@@ -11,6 +11,7 @@ body {
 
 .header {
     font-family: serif;
+    font-size: 2rem;
     display: flex;
     text-align:center;
     justify-content: center;
@@ -105,6 +106,7 @@ nav {
     top:0;
     width:100%;
     justify-content:left;
+    padding-top:2%
     
 }
 nav ul {
@@ -116,12 +118,14 @@ nav ul {
 }
 nav li {
     margin-right: 20px;
+   
 
 }
 nav a {
     text-decoration:none;
     color:#5e5e5e;
     font-weight:bold;
+    align-items: bottom;
 
 }
 nav a:hover {

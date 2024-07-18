@@ -35,9 +35,25 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Keys:
+
 seaworthy
+
 OOZEdiveTRAPpine
+
+6games-container.stats-card15
+
+11seafoamgames_json
+
+19187800268BRAIN
+
+74FLANNELclick
+
+tolocalestring<div>1ivy
+
+ZoohowCEDAR
+
 
 ## License
 

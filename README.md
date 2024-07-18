@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-    https://www.loom.com/share/d23b0d5d71c64b83b20db321461a58c6?sid=1c64943f-0e9d-4258-b115-9e49b3e046c3
+    https://imgur.com/5NBjHiS.gif
 
-<img src='(https://www.loom.com/share/d23b0d5d71c64b83b20db321461a58c6?sid=1c64943f-0e9d-4258-b115-9e49b3e046c3)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/5NBjHiS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

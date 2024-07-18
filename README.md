@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *CrowdFundingMonstars*
 
 Submitted by: **Thierry Laguerre**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**CrowdFundingMonstars** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -35,6 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+    I encountered syntax errors and misplaced methods, functions, and calls.
 
 Keys:
 
@@ -57,7 +58,7 @@ ZoohowCEDAR
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Thierry Laguerre
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

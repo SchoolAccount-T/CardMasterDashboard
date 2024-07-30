@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-    https://imgur.com/a/OWVQp7H.gif
+    https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25lenVkbmJmN2ZkbHc1N2Y4czFyNnFibDJsaHoybGlxdTF0c2tvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KKGiviaaI3uTs7mQP9/giphy.gif
 
-<img src='https://imgur.com/a/OWVQp7H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25lenVkbmJmN2ZkbHc1N2Y4czFyNnFibDJsaHoybGlxdTF0c2tvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KKGiviaaI3uTs7mQP9/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

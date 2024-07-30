@@ -180,3 +180,5 @@ const secondItemNote = document.createElement("p");
 secondItemNote.textContent = item2.name;
 secondGameContainer.appendChild(secondItemNote); 
 
+addGamesToPage(GAMES_JSON)
+

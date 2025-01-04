@@ -97,3 +97,5 @@ The **Card Dashboard** is an open-source project developed to streamline the pro
 Contribute to your favorite **Sea Monster Crowdfunding** projects, explore new games, and be part of the **crowdfunding community**. Whether you’re looking to support unfunded games or discover the most successful projects, the **Card Dashboard** provides all the tools you need to make informed decisions and help games succeed. 
 
 Start exploring today and see how your support can make a difference! 🌍🎮
+
+![preview](preview.png)
